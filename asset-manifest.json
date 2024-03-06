@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react_pm_10/static/css/main.dce478eb.css",
+    "main.js": "/react_pm_10/static/js/main.5d551f28.js",
+    "static/media/denim-pioneer.jpg": "/react_pm_10/static/media/denim-pioneer.6b726ec4efda6c8f7752.jpg",
+    "static/media/rain-jacket.jpg": "/react_pm_10/static/media/rain-jacket.b856f7a5efa6e87f2da0.jpg",
+    "static/media/dream-gown.jpg": "/react_pm_10/static/media/dream-gown.3b7de5866ea9f4f81bf6.jpg",
+    "static/media/mocha-overcoat.jpg": "/react_pm_10/static/media/mocha-overcoat.037b486a844d5afc0022.jpg",
+    "static/media/merlot-suit.jpg": "/react_pm_10/static/media/merlot-suit.0140cac0a814bc9640b7.jpg",
+    "static/media/moonlight-dress.jpg": "/react_pm_10/static/media/moonlight-dress.dabc8ca96931f295d884.jpg",
+    "index.html": "/react_pm_10/index.html",
+    "main.dce478eb.css.map": "/react_pm_10/static/css/main.dce478eb.css.map",
+    "main.5d551f28.js.map": "/react_pm_10/static/js/main.5d551f28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dce478eb.css",
+    "static/js/main.5d551f28.js"
+  ]
+}
